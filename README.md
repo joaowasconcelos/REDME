@@ -1,5 +1,7 @@
 # REDME
 
+![Logo do Git](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
+
 # Bem vindo ao curso de Git e Github
 Nessa etapa de curso você vai dominar git e *github* do zero ao profissional!
 
@@ -29,5 +31,5 @@ Nessa etapa de curso você vai dominar git e *github* do zero ao profissional!
 ###### Titulo
 
 ## Rede Social
-[instagram]{https://www.instagram.com/joao_wasconcelos/} 
+[instagram]{https://www.instagram.com/joao_wasconcelos} 
 
