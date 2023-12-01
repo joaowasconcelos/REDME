@@ -31,5 +31,29 @@ Nessa etapa de curso você vai dominar git e *github* do zero ao profissional!
 ###### Titulo
 
 ## Rede Social
-[instagram]{https://www.instagram.com/joao_wasconcelos} 
+[Instagram](https://www.instagram.com/joao_wasconcelos) 
 
+
+>Este e um blockquote, usando para destacar alguma area 
+
+> Segunda area 
+
+# Comando para rodar o projeto
+```
+npm star
+```
+
+**Exemplo de uso do script**
+```js
+    function showName(name){
+        return "Bem vindo": + name;
+    }
+```
+
+**Exemplo de uso no HTML**
+```html 
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+<h1>
+```
