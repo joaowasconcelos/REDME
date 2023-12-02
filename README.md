@@ -57,3 +57,10 @@ npm star
     <span>Curso Git</span>
 <h1>
 ```
+
+Propriedade | Descrição |
+------------|-----------
+Name | Para informar o nome do usuario
+Size | Para definir o tamanho do campo
+Backgroud | Cor de fundo da area HEX
+OnPress | Função chamada quando clicar no botão.
